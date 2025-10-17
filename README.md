@@ -56,3 +56,15 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&lineHeight=200" alt="Hello Header" />
   </a>
 </div>
+
+
+<br>
+
+<div align="center">
+  <h3>🐍 My Contribution Graph Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enity300/Enity300/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Enity300/Enity300/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Enity300/Enity300/output/github-snake.svg">
+  </picture>
+</div>
