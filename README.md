@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Enity300">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Hello!&fontSize=90&fontColor=fff&animation=twinkling&lineHeight=200" alt="Hello Header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello!&fontSize=90&fontColor=fff&animation=twinkling&lineHeight=200" alt="Hello Header" />
   </a>
   <br>
   <h2>Let's Connect</h2>
@@ -42,3 +42,17 @@
   ],
   "Hobbies": ["\"Gaming\"", "\"Cinema\"", "\"Outdoor\"", "\"Gym\""]
 }
+```
+<br>
+
+<h3>🚀 Some Tools I Have Used and Learned</h3>
+<hr style="height: 1px; border: none; background-color: #555;" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,py,c,cpp,js,react,vue,html,bootstrap,css,mongodb,mysql,nodejs,php,laravel,flutter,docker,kubernetes,aws,linux,git,webpack,figma" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/Enity300">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&lineHeight=200" alt="Hello Header" />
+  </a>
+</div>
