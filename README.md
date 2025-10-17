@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Enity300">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!&fontSize=90&fontColor=fff&animation=twinkling&lineHeight=200" alt="Hello Header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hello!&fontSize=90&fontColor=fff&animation=twinkling&lineHeight=200" alt="Hello Header" />
   </a>
   <br>
   <h2>Let's Connect</h2>
