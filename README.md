@@ -56,9 +56,3 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&lineHeight=200" alt="Hello Header" />
   </a>
 </div>
-
-
-<br>
-
-![Snake animation](https://github.com/Enity300/Enity300/blob/output/github-contribution-grid-snake.svg)
-
