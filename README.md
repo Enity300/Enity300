@@ -48,7 +48,7 @@
 <h3>🚀 Some Tools I Have Used and Learned</h3>
 <hr style="height: 1px; border: none; background-color: #555;" />
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,py,c,cpp,js,react,vue,html,bootstrap,css,mongodb,mysql,nodejs,php,laravel,flutter,docker,kubernetes,aws,linux,git,webpack,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,py,c,cpp,js,html,css,mongodb,mysql,nodejs,docker,kubernetes,aws,linux,git,github,figma,pytorch,tensorflow,opencv" />
 </div>
 
 <div align="center">
