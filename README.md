@@ -12,7 +12,13 @@
   </a>&nbsp;
   <a href="https://leetcode.com/u/enity300/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
-  </a>
+  </a>&nbsp;
+<a href="https://discord.com/users/783895516659843073" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>&nbsp;
+  <a href="mailto:vchauhav47@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 </div>
 <br>
 
